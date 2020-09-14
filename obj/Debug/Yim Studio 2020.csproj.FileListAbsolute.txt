@@ -19,3 +19,9 @@ C:\Users\SAMET\Desktop\yimxstudio\obj\Debug\Yim Studio 2020.csproj.CoreCompileIn
 C:\Users\SAMET\Desktop\yimxstudio\obj\Debug\Yim Studio 2020.csproj.CopyComplete
 C:\Users\SAMET\Desktop\yimxstudio\obj\Debug\Yim Studio 2020.exe
 C:\Users\SAMET\Desktop\yimxstudio\obj\Debug\Yim Studio 2020.pdb
+C:\Users\SAMET\Desktop\yimxstudio\bin\Debug\Yim Studio 2020.exe.config
+C:\Users\SAMET\Desktop\yimxstudio\bin\Debug\Yim Studio 2020.exe
+C:\Users\SAMET\Desktop\yimxstudio\bin\Debug\Yim Studio 2020.pdb
+C:\Users\SAMET\Desktop\yimxstudio\bin\Debug\FastColoredTextBox.dll
+C:\Users\SAMET\Desktop\yimxstudio\bin\Debug\MaterialSkin.dll
+C:\Users\SAMET\Desktop\yimxstudio\bin\Debug\XanderUI.dll

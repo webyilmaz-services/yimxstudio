@@ -1,0 +1,3 @@
+import ["stdsx"]
+
+print "Hello World"
