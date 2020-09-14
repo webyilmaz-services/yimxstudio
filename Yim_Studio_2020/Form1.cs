@@ -48,8 +48,8 @@ namespace Yim_Studio_2020
 			File.Create(string.Concat("Projects/", Form1.ProjectName, "/main.yimx")).Close();
 			
 			File.Copy("yimxjar/yimx.jar", string.Concat("Projects/", Form1.ProjectName, "/yimxjar/yimx.jar"));
-			File.Copy("bin/yim", string.Concat("Projects/", Form1.ProjectName, "/bin/yimx"));
-			File.Copy("bin/yim.bat", string.Concat("Projects/", Form1.ProjectName, "/bin/yimx.bat"));
+			File.Copy("bin/yimx", string.Concat("Projects/", Form1.ProjectName, "/bin/yimx"));
+			File.Copy("bin/yimx.bat", string.Concat("Projects/", Form1.ProjectName, "/bin/yimx.bat"));
 			(new Editor()).Show();
 			base.Hide();
 		}
