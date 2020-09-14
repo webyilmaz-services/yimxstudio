@@ -44,12 +44,12 @@ namespace Yim_Studio_2020
 			Directory.CreateDirectory(string.Concat("Projects/", Form1.ProjectName, "/yimxjar/"));
 			Directory.CreateDirectory(string.Concat("Projects/", Form1.ProjectName, "/bin/"));
 			Directory.CreateDirectory(string.Concat("Projects/", Form1.ProjectName, "/build/"));
-			Directory.CreateDirectory(string.Concat("Projects/", Form1.ProjectName, "/build/cache/"));
+			
 			File.Create(string.Concat("Projects/", Form1.ProjectName, "/main.yimx")).Close();
-			File.Create(string.Concat("Projects/", Form1.ProjectName, "/build/cache/r60.cry")).Close();
+			
 			File.Copy("yimxjar/yimx.jar", string.Concat("Projects/", Form1.ProjectName, "/yimxjar/yimx.jar"));
-			File.Copy("bin/yim", string.Concat("Projects/", Form1.ProjectName, "/bin/yim"));
-			File.Copy("bin/yim.bat", string.Concat("Projects/", Form1.ProjectName, "/bin/yim.bat"));
+			File.Copy("bin/yim", string.Concat("Projects/", Form1.ProjectName, "/bin/yimx"));
+			File.Copy("bin/yim.bat", string.Concat("Projects/", Form1.ProjectName, "/bin/yimx.bat"));
 			(new Editor()).Show();
 			base.Hide();
 		}
