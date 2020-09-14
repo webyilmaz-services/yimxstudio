@@ -1,4 +1,4 @@
-# yimxstudiodecompiled
+# Yimx Studio Alpha Version
  YIMX Studio (Alpha 0.0001)
 Screen Shots;
 ![SS1](https://i.hizliresim.com/w12acx.png)
